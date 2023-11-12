@@ -1,0 +1,10 @@
+@media only screen and (min-width: 460px) {
+    .search button img{
+        display: none;
+    }
+    .search button{
+        display: none;
+    }
+  }
+  
+  
